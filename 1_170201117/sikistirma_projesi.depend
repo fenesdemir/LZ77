@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589737057 source:d:\sikistirma_projesi\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1589737057 source:c:\users\user\desktop\pro2proje2\1_170201117\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
